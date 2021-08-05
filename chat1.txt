@@ -1,0 +1,11 @@
+CHAT:Hello everybody!
+DONE:
+CHAT:How are you doing today?
+CHAT:I'm a pretty stupid client, but that's ok
+DONE:
+CHAT:I'm still talking, how about that? 
+CHAT:Do you want coffee?
+DONE:
+KICK:clientbot
+DONE:
+QUIT:
